@@ -1,2 +1,0 @@
-THis is a new branch for localized changes.
-New branchfile is showing up in both Main and New_branch.
